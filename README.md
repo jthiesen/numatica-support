@@ -5,4 +5,4 @@ https://jthiesen.github.io/numatica-support/
 
 - `index.html` — support contact, FAQ, screenshots
 - `guide/index.html` — copy of the in-app user guide
-- Privacy policy lives in [numatica-info](https://github.com/jthiesen/numatica-info)
+- `privacy/index.html` — privacy policy
